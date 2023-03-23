@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background-color: blueviolet;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    background-color: purple;
+    color: black;
+}
+
+.name_of_object, #result_object_name , #result_object_accuary{
+    color: yellow;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
